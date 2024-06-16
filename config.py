@@ -8,7 +8,7 @@ OWNER = int(os.environ.get("OWNER", "6708929009"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "FileReNamerrBot")
 
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "MOVIEZ_CARTOONZ")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001553204990")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1001553204990"))
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://developervro:developerrapuka@cluster9.gcj9754.mongodb.net/?retryWrites=true&w=majority&appName=Cluster9")
 DB_NAME = os.environ.get("DB_NAME", "developervro")
